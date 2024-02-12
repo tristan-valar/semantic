@@ -11,3 +11,5 @@ npm install -D semantic-release @semantic-release/git @semantic-release/github
 #### 2 Create config file
 
 release.config.js
+
+#### 3 create github action

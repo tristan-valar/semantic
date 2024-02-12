@@ -1,3 +1,7 @@
 export function helloWorld() {
-  return "Hello World";
+  return "Hello Mum";
+}
+
+export function helloMum() {
+  return "Hello Mum";
 }
