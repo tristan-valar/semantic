@@ -3,5 +3,5 @@ export function helloWorld() {
 }
 
 export function helloMum() {
-  return "Hello mum";
+  return "Hello Mum";
 }
